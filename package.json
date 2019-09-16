@@ -1,0 +1,12 @@
+{
+  "name": "jwt-from-serviceaccount",
+  "version": "1.0.0",
+  "description": "Get JWT from a Google service account",
+  "main": "index.js",
+  "repository": "git@khaly.github.com:gaelleacas/jwt-from-serviceaccount.git",
+  "author": "gaelleacas <gaelle.acas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gtoken": "^4.0.0"
+  }
+}
