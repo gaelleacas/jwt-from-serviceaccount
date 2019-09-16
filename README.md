@@ -1,4 +1,6 @@
-# Get a JWT from service account
+# Authentication with a Service Account
+
+## Get a JWT from a Google Service Account
 
 This authentication process use [Google GToken library](https://github.com/googleapis/node-gtoken)
 
